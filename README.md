@@ -1,2 +1,0 @@
-# serverless-site
-Begin app
